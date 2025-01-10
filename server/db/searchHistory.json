@@ -1,0 +1,26 @@
+[
+	{
+		"name": "New York",
+		"id": "e7f8f9a3-5b25-4bff-9d3d-9e20c7f61fbb"
+	},
+	{
+		"name": "Atlanta",
+		"id": "67b4e3ba-64fe-4123-865a-0dc8ef5530b0"
+	},
+	{
+		"name": "Williamstown",
+		"id": "7f09ae91-5702-4d00-8e0a-38b45f3f87d3"
+	},
+	{
+		"name": "Sicklerville",
+		"id": "31cdf7b6-4c72-4784-8c5d-58625b19324b"
+	},
+	{
+		"name": "San Francisco",
+		"id": "e0538c33-e5f6-4096-ba9a-8fe7651653cb"
+	},
+	{
+		"name": "Trenton",
+		"id": "a9218840-6d44-46eb-bd3c-3fb90d7b30a0"
+	}
+]
